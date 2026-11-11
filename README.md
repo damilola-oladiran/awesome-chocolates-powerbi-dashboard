@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that tracks sales, profit, cost and shipments for a chocolate manufacturer across six countries, 22 products and 25 sales people.
 
-![Dashboard overview: product view](screenshots/01_dashboard_product_view.png)
+![Dashboard overview: product view](screenshots/01_dashboard_product_view.PNG)
 
 ## Project overview
 
