@@ -40,7 +40,7 @@ Shipments cover about one year, from February 2023 to January 2024. Countries: A
 
 A star schema: the `shipments` table sits in the middle, and `products`, `people` and `calendar` each connect to it with a one-to-many relationship.
 
-![Data model](screenshots/03_data_model.png)
+![Data model](screenshots/03_data_model.PNG)
 
 ## Measures I created
 
@@ -85,7 +85,7 @@ These come from the dashboard as built, with no filters applied.
 
 | | |
 | --- | --- |
-| ![Product view](screenshots/01_dashboard_product_view.png) | ![Sales person view](screenshots/02_dashboard_salesperson_view.png) |
+| ![Product view](screenshots/01_dashboard_product_view.PNG) | ![Sales person view](screenshots/02_dashboard_salesperson_view.PNG) |
 
 ## Contact
 
